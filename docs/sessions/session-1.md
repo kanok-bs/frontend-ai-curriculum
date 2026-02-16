@@ -26,6 +26,7 @@ description: 'The Agentic Workspace – Mastering Cursor, Windsurf, and the "Flo
 - **Docs & indexing** - documentation reference and code indexing for better context.
 - **Skills** - Specialized capabilities for specific development tasks and technologies.
 - **Cursor vs Windsurf comparison** - Feature comparison between AI development environments.
+- **Tree mode vs local mode** - Different file system access modes for AI tools.
 - **Security considerations** - Data privacy and security measures for AI tools.
 
 ## Development Principles
