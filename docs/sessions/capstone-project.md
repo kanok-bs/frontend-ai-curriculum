@@ -5,7 +5,7 @@ description: "Synthesize learning by building a feature using Agentic workflows"
 
 # 🏆 Capstone Project: The "Agentic" Hackathon
 
-**Goal:** Synthesize learning by building a feature using Agentic workflows.
+**Goal:** Synthesize learning by building a projects using Agentic workflows.
 
 ## Project Overview
 
