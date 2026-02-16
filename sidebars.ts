@@ -15,21 +15,15 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 const sidebars: SidebarsConfig = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
+    "index",
     {
       type: "category",
-      label: "🚀Frontend Development in the Age of AI: Strategy and Execution",
+      label: "📚 Sessions",
       items: [
-        {
-          type: "category",
-          label: "📚 Sessions",
-          items: [
-            "index",
-            "sessions/session-1",
-            "sessions/session-2",
-            "sessions/session-3",
-            "sessions/capstone-project",
-          ],
-        },
+        "sessions/session-1",
+        "sessions/session-2",
+        "sessions/session-3",
+        "sessions/capstone-project",
       ],
     },
   ],
