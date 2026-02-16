@@ -22,20 +22,9 @@ Move beyond single-tool AI usage to create a seamless, integrated development en
 ## Project Configuration
 
 - **Setup project rules** → [https://cursor.com/docs/context/rules#agentsmd](https://cursor.com/docs/context/rules#agentsmd)
+- **setup project skills** → [https://cursor.com/docs/context/subagents](https://cursor.com/docs/context/subagents)
+- ** Sub agents** → [https://cursor.com/docs/context/skills](https://cursor.com/docs/context/skills)
+
 - **Persist architecture memory (PrimeVue context).** Maintain consistent patterns across sessions.
 - **Ticket → branch → PR mapping.** Automated workflow integration.
 - **GitHub sub-directory strategy for Microservice.** Organized repository structure.
-
-## Connected Workflow Benefits
-
-- **Context Persistence:** AI remembers project structure and patterns
-- **Tool Chaining:** Seamless handoff between design, development, and deployment
-- **Automated Documentation:** Real-time updates from code changes
-- **Cross-Platform Integration:** Design tools talk to code, code talks to project management
-
-## Practical Implementation
-
-1. **Design Phase:** Figma → MCP → Component generation
-2. **Development Phase:** Code → GitHub MCP → Auto PR creation
-3. **Testing Phase:** Jira MCP → Test case generation
-4. **Deployment Phase:** Chrome DevTools MCP → Performance monitoring
