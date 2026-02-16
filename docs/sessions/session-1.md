@@ -28,6 +28,7 @@ description: 'The Agentic Workspace – Mastering Cursor, Windsurf, and the "Flo
 - **Cursor vs Windsurf comparison** - Feature comparison between AI development environments.
 - **Tree mode vs local mode** - Different file system access modes for AI tools.
 - **Security considerations** - Data privacy and security measures for AI tools.
+- **Learning platforms** → [https://windsurf.com/university](https://windsurf.com/university) & [https://cursor.com/learn](https://cursor.com/learn)
 
 ## Development Principles
 
