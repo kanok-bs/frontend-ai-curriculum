@@ -24,6 +24,7 @@ const sidebars: SidebarsConfig = {
           label: "📚 Sessions",
           items: [
             "index",
+            "sessions/session-1",
             "sessions/session-2",
             "sessions/session-3",
             "sessions/capstone-project",
