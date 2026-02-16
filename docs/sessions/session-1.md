@@ -29,17 +29,26 @@ description: 'The Agentic Workspace – Mastering Cursor, Windsurf, and the "Flo
 - **Tree mode vs local mode** - Different file system access modes for AI tools.
 - **Security considerations** - Data privacy and security measures for AI tools.
 - **Learning platforms** → [https://windsurf.com/university](https://windsurf.com/university) & [https://cursor.com/learn](https://cursor.com/learn)
+- **Prompt tips** - Rephrase GPT text before giving prompts for better results.
+- **Replace feature safely.** Incremental, testable changes.
+- **Terminal-driven workflow.** Command-line first development.
+- **In-browser editing.** Direct browser-based development when appropriate.
+- **Arena mode.** Competitive coding environments for skill improvement.
 
-## Development Principles
+## AI Integration
+
+- **AI feature prompts** → [https://github.com/bitovi/ai-enablement-prompts/blob/main/writing-code/generate-feature/README.md](https://github.com/bitovi/ai-enablement-prompts/blob/main/writing-code/generate-feature/README.md)
+- **Figma AI** → [https://www.figma.com/make/](https://www.figma.com/make/)
+- **Token awareness** → [https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
+
+## Frontend Core Knowledge Revisit
+
+### Development Principles
 
 - **Atomic + SOLID structure.** Small, focused components following SOLID principles.
 - **package.json vs package-lock.json.** Understand dependency management.
 - **Semantic versioning** → [https://www.geeksforgeeks.org/software-engineering/introduction-semantic-versioning/](https://www.geeksforgeeks.org/software-engineering/introduction-semantic-versioning/)
 - **Code Lens (explain / refactor / docs).** Use AI-powered code analysis tools.
-- **Replace feature safely.** Incremental, testable changes.
-- **Terminal-driven workflow.** Command-line first development.
-- **In-browser editing.** Direct browser-based development when appropriate.
-- **Arena mode.** Competitive coding environments for skill improvement.
 
 ## Rendering Strategies
 
@@ -49,9 +58,3 @@ description: 'The Agentic Workspace – Mastering Cursor, Windsurf, and the "Flo
 - **Server-Side Rendering (SSR)** - Dynamic server rendering
 - **Static Site Generation (SSG)** - Build-time static generation
 - **Incremental Static Regeneration (ISR)** - Hybrid approach
-
-## AI Integration
-
-- **AI feature prompts** → [https://github.com/bitovi/ai-enablement-prompts/blob/main/writing-code/generate-feature/README.md](https://github.com/bitovi/ai-enablement-prompts/blob/main/writing-code/generate-feature/README.md)
-- **Figma AI** → [https://www.figma.com/make/](https://www.figma.com/make/)
-- **Token awareness** → [https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
