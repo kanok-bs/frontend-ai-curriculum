@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend_ai_curriculum=globalThis.webpackChunkfrontend_ai_curriculum||[]).push([[858],{5516(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

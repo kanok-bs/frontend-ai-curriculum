@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfrontend_ai_curriculum=globalThis.webpackChunkfrontend_ai_curriculum||[]).push([[903],{1912(u){u.exports=JSON.parse('{"blogBasePath":"/frontend-ai-curriculum/blog","blogTitle":"Blog","authorsListPath":"/frontend-ai-curriculum/blog/authors"}')}}]);
