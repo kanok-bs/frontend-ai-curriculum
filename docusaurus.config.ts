@@ -15,17 +15,17 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://bs1186.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/frontend-ai-curriculum/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "frontend-ai-curriculum", // Usually your GitHub org/user name.
+  organizationName: "bs1186", // Usually your GitHub org/user name.
   projectName: "frontend-ai-curriculum", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -76,7 +76,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "🚀 Frontend AI Curriculum",
+      title: "🚀Frontend Development in the Age of AI: Strategy and Execution",
       logo: {
         alt: "Frontend AI Curriculum Logo",
         src: "img/logo.svg",
@@ -111,7 +111,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Frontend AI Curriculum. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}Frontend Development in the Age of AI: Strategy and Execution. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

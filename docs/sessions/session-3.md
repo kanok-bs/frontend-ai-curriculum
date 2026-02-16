@@ -1,11 +1,11 @@
 ---
-title: 'Session 3: High-Assurance Engineering'
-description: 'TDD, Testing & AI-Controlled Refactoring'
+title: "Session 3: High-Assurance Engineering"
+description: "High-Assurance Engineering – TDD, Testing, and Refactoring with AI"
 ---
 
 # 🗓️ Session 3: High-Assurance Engineering
 
-**Theme:** TDD, Testing & AI-Controlled Refactoring
+**Theme:** High-Assurance Engineering – TDD, Testing, and Refactoring with AI
 
 ## Coming Soon
 

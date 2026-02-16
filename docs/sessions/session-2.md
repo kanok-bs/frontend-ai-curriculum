@@ -1,11 +1,11 @@
 ---
-title: 'Session 2: The Connected Context'
-description: 'MCP, Tooling & Vibe Coding'
+title: "Session 2: The Connected Context"
+description: 'The Connected Context – Tooling Spotlight, MCP, and "Vibe Coding"'
 ---
 
 # 🗓️ Session 2: The Connected Context
 
-**Theme:** MCP, Tooling & Vibe Coding
+**Theme:** The Connected Context – Tooling Spotlight, MCP, and "Vibe Coding"
 
 ## From Isolated AI to Connected Ecosystem
 
@@ -14,7 +14,7 @@ Move beyond single-tool AI usage to create a seamless, integrated development en
 ## MCP Integrations
 
 - **Figma MCP setup** → [https://developers.figma.com/docs/figma-mcp-server/local-server-installation/](https://developers.figma.com/docs/figma-mcp-server/local-server-installation/)
-- **GitHub MCP integration.** Connect repositories and workflows directly to AI.
+- **GitHub MCP integration** → [https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)
 - **Jira MCP** → [https://github.com/sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian)
 - **Chrome DevTools MCP** → [https://github.com/ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - **Connect file directory via MCP.** Direct filesystem access for AI tools.

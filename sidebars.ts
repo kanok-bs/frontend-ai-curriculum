@@ -17,15 +17,16 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: "category",
-      label: "🚀 Frontend AI Curriculum",
+      label: "🚀Frontend Development in the Age of AI: Strategy and Execution",
       items: [
         {
           type: "category",
           label: "📚 Sessions",
           items: [
-            "sessions/session-1",
+            "index",
             "sessions/session-2",
             "sessions/session-3",
+            "sessions/capstone-project",
           ],
         },
       ],
