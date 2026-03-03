@@ -13,7 +13,7 @@ The capstone project brings together all concepts from the three sessions into a
 
 ## Requirements
 
-1. Use AI tool (Cursor/Windsurf), set up rules, skills, MCP server, workflows and what you learn so far — export chat logs
+1. Use AI tool (Cursor/Windsurf/similar AI IDE), set up rules, skills, MCP server, workflows and what you learn so far — export chat logs
 2. Write unit tests and Playwright tests using TDD
 3. Keep project context in `context/` folder ( modules, functional)
 4. Use git submodules for multi-repo
